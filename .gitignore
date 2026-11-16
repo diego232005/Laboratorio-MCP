@@ -1,0 +1,15 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+data/
+logs/
+*.log
+.DS_Store
+scripts/node_modules/
+scripts/package-lock.json
+*.db
+*.mv.db
+*.trace.db
